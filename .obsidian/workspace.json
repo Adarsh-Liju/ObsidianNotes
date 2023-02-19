@@ -11,11 +11,15 @@
             "id": "642c28545e5a0842",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Cloud Computing Unit 2.md",
-                "mode": "source",
-                "source": false
+                "file": "Study_Test.canvas",
+                "viewState": {
+                  "x": -11,
+                  "y": -1,
+                  "zoom": -0.26960705975728017,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -69,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "right": {
     "id": "7d3bf7eb2e410f3f",
@@ -86,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing Unit 2.md",
+                "file": "Study_Test.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Computing Unit 2.md",
+                "file": "Study_Test.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Computing Unit 2.md"
+                "file": "Study_Test.canvas"
               }
             }
           }
@@ -149,11 +152,11 @@
   },
   "active": "642c28545e5a0842",
   "lastOpenFiles": [
-    "UE20CS351_Unit2_Slides.pdf",
+    "Untitled.canvas",
     "Cloud Computing Unit 2.md",
+    "UE20CS351_Unit2_Slides.pdf",
     "BlockChain Unit 2.md",
-    "Untitled 1.canvas",
-    "DBT Unit 2.md",
-    "Untitled.canvas"
+    "Study_Test.canvas",
+    "DBT Unit 2.md"
   ]
 }
