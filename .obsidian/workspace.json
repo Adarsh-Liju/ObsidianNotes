@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "0e63a10f66a4de3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "79a424763f8dd38f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "642c28545e5a0842",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Computing Unit 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b54dffaf8d76097c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c97cc80a3346817",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6e839001c278649",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d175535371c764b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29ec5ba84e9766b7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7d3bf7eb2e410f3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0763450aaad3c89e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d1864f916e16879",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cloud Computing Unit 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c1149f612438943",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cloud Computing Unit 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0a9c81259a93347",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "465938e97c52eee5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cloud Computing Unit 2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "642c28545e5a0842",
+  "lastOpenFiles": [
+    "UE20CS351_Unit2_Slides.pdf",
+    "Cloud Computing Unit 2.md",
+    "BlockChain Unit 2.md",
+    "Untitled 1.canvas",
+    "DBT Unit 2.md",
+    "Untitled.canvas"
+  ]
+}
