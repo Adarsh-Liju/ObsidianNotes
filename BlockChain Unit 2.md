@@ -68,8 +68,74 @@ Cipher Text: Hexe Irgvctxmsr
 ### Stream Cipher
 	OTP/RC4
 
-1. **One byte** is encrypted at a time while in ***block cipher*** **128 bits** are encrypted at a time
-2. 
+Bit by Bit Conversion
 
+**One byte** is encrypted at a time while in ***block cipher*** **128 bits** are encrypted at a time
 
+## DES - Data Encryption Standard
+
+1. Symmetric Key **Block Cipher** by NIST
+2. Proposed by IBM
+3. It uses **16 round Feistel Structure**
+4. The block size is **64** bit
+5. The effective key length is **56** bits, since **8** bits of the key are not used by the encryption algorithm
+6. DES is weak against **brute force attacks**
+
+## Disadvantages of Symmetric Key Cryptography
+
+1. The number of keys between parties increases somewhat at quadratic speed
+2. No validity for the origin of keys
+3. Both sides use the same key,not that secure
+
+## Assymetric Key Cryptography
+
+-  Uses **private key** and **public key** mechanism.
+![[AsyKey.png]]
+- The **private key** is only known to the user/owner and needs to be kept **private**.**Public key** may be given to anyone.
+- Senders can combine a message with their private key to create a **digital signature** on the message.
+- Anyone with the corresponding **public key** can now verify whether the signature is **valid**
+
+### RSA - **Rivest–Shamir–Adleman**
+
+	TBD 
+
+## Digital Signatures
+- Electronic Fingerprints 
+- Digital signatures use a standard, accepted format, called **Public Key Infrastructure (PKI)**
+
+### But why? 
+
+1. Provide **Authenticity , Integrity , Non-repudiation** 
+
+> [!NOTE]
+> Non Repudiation here means neither the user nor the sender can deny of having processed the information
+
+2. To use the Internet as the safe and secure medium for Banking, e-Commerce and e-Governance with Security of Servers
+
+## Digital Signatures in BlockChain
+
+![[Sign_BlockChain.png]]
+
+- Bitcoin uses **Elliptic Curve Digital Signature Algorithm (ECDSA)**,Based on **elliptic curve** cryptography Supports good randomness in key generation
+
+## **Hash** Functions 
+
+1. A c**ryptographic hash function** takes data and essentially  translates it into a **string of letters and numbers**.
+2. Data goes into a **hash function**, the function runs, and a string of letters and numbers is produced, that string is called a **hash**.
+3. In the BitCoin Blockchain hashes are **256 bits or 64 characters** .
+
+### Features 
+1. Takes any input length string 
+2. Produces fixed size output 
+3. Easy to compute 
+4. Almost impossible to reverse 
+5. Collision resistant 
+6. Hides original string 
+7. Almost impossible to get original string from hash value 
+8. Puzzle friendly
+
+### Popular Hash Functions
+
+1. Message Direct
+2. Secure Hash Algorithm
 
