@@ -1,3 +1,5 @@
+
+
 ## **Cryptography**
 
 ### Definition
@@ -136,6 +138,19 @@ Bit by Bit Conversion
 
 ### Popular Hash Functions
 
-1. Message Direct
-2. Secure Hash Algorithm
+1. Message Direct (MD)
+2. Secure Hash Algorithm (SHA)
+3. RIPEMD ( RACE Integrity Primitives Evaluation Message Digest)
+4. WhirlPool
+
+### Examples of hash Functions
+
+- MD5 
+	- Produces a 128 bit hash
+- SHA 1 
+	- Produces a 160 bit hash 
+- SHA 256 
+	- Produces a 256 bit hash , currently used by BitCoin
+- Keccak - 256 
+	- Produces a 256-bit hash and is currently used by Ethereum
 
