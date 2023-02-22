@@ -1,4 +1,4 @@
-![[UE20CS351_Unit2_Slides.pdf]]
+
 ## Virtualization Software Techniques
 
 ## **Trap and Emulate**
@@ -37,7 +37,7 @@
 ## **Xen**
 ![[Xen.png]]
 - Paravirtualization Hypervisor
-- VM's called **domain
+- VM's called **domain**
 	- Dom0 - **Domain0**
 		- Special Domain, essentially the **host OS** 
 		- Handles all **I/O**
@@ -57,3 +57,5 @@
 ## Page Walking
 
 1. Software page walker is a OS handler that 
+
+***TBD***

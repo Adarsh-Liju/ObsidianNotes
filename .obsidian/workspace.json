@@ -8,18 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "642c28545e5a0842",
+            "id": "e55ea53754b14f45",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Study_Test.canvas",
-                "viewState": {
-                  "x": -11,
-                  "y": -1,
-                  "zoom": -0.26960705975728017,
-                  "snapToGrid": false
-                }
+                "file": "Cloud Computing Unit 2.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study_Test.canvas",
+                "file": "Cloud Computing Unit 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study_Test.canvas",
+                "file": "Cloud Computing Unit 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study_Test.canvas"
+                "file": "Cloud Computing Unit 2.md"
               }
             }
           }
@@ -150,13 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "642c28545e5a0842",
+  "active": "e55ea53754b14f45",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Cloud Computing Unit 2.md",
-    "UE20CS351_Unit2_Slides.pdf",
     "BlockChain Unit 2.md",
+    "Cloud Computing Unit 2.md",
+    "DBT Unit 2.md",
+    "Hello World.md",
+    "page walking.png",
+    "Pasted image 20230219183237.png",
     "Study_Test.canvas",
-    "DBT Unit 2.md"
+    "Untitled.canvas",
+    "UE20CS351_Unit2_Slides.pdf"
   ]
 }
