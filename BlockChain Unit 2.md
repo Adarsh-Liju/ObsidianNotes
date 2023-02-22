@@ -20,4 +20,23 @@
 4. Authentication
 	- Identification of sender and reciever verified before transactions
 
+# **Cryptographic Ciphers**
+
+
+
+## **Symmetric Ciphers** (K1=K2=K)
+
+## How it works?
+
+The **encrypting** key and ** ** key is the same
+
+
+![[Symmetric Ciphers.png]]
+
+### Examples
+1. AES
+2. DES
+
+## **Asymmetric Ciphers**
+
 
